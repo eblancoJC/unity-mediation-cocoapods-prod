@@ -19,7 +19,7 @@ Your use of Unity Monetization constitutes your acceptance of such terms. Unless
     spec.vendored_frameworks  = "UnityMediationAppLovinAdapter.xcframework"
     spec.dependency "UnityMediationSdk", ">= 0.5"
     spec.dependency "UnityMediationAdapter", "~> 3.0"
-    spec.dependency "AppLovinSDK", "= 11.6.1"
+    spec.dependency "AppLovinSDK", "= 11.7.1"
     spec.xcconfig = {
       "OTHER_LDFLAGS" => "-ObjC",
       "VALID_ARCHS" => "arm64 arm64e armv7 armv7s x86_64",
