@@ -19,5 +19,5 @@ Your use of Unity Monetization constitutes your acceptance of such terms. Unless
     spec.vendored_frameworks  = 'UnityMediationUnityAdapter.xcframework'
     spec.dependency "UnityMediationSdk", ">= 0.5"
     spec.dependency "UnityMediationAdapter", "~> 3.0"
-    spec.dependency 'UnityAds', '~> 4.1'
+    spec.dependency 'UnityAds', '= 4.5.0'
   end
